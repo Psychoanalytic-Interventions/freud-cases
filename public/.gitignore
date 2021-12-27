@@ -1,6 +1,4 @@
-packages/
-*.sh
 *.html~
 *.org~
 *.tex~
-*.el
+*.~

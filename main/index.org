@@ -3,6 +3,8 @@
 #+HTML_HEAD: <link rel="stylesheet"  type="text/css" href="https://cdn.simplecss.org/simple.min.css" />
 #+OPTIONS: :section-numbers nil  :with-toc nil
 
+[[file:cases/cases.org][Cases]]
+
 This website maintains the relevant chronological and bibliographical literature associated with the clinical cases that Freud treated during his lifetime, along with the secondary literature surrounding interpretations from various psychoanalytic schools.
 
 * Foreword
