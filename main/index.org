@@ -1,6 +1,6 @@
 #+TITLE: PSCHOANALYTIC CASE STUDIES FROM SIGMUND FREUD
 #+AUTHOR: Divya Ranjan
-#+HTML_HEAD: <link rel="stylesheet"  type="text/css" href="/simple.css" />
+#+HTML_HEAD: <link rel="stylesheet"  type="text/css" href="https://cdn.simplecss.org/simple.min.css" />
 #+OPTIONS: :section-numbers nil  :with-toc nil
 
 [[file:cases/cases.org][Cases]]
