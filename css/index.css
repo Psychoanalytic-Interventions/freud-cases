@@ -49,6 +49,7 @@ h1, h2 {
 h1 {
   font-size: 3.2em;
   line-height: 1;
+  width: 80%;
   margin-top: 2em;
   margin-bottom: .5em
 }
